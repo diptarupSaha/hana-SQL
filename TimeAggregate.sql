@@ -3,16 +3,16 @@
 				
 				
 		Sample Table: ELECTRICAL_OUTAGE
-		-----------------------------------------------------------
+		----------------------------------------------------------------------
 		ID   |	CITY		|  STATE		|     OUTAGE_DURATION
-		-----------------------------------------------------------
+		----------------------------------------------------------------------
 		1    |	Hubli		|	Karnataka	|      4316:52:00
 		2    |	Belagavi	|	Karnataka	|        16:01:00
 		3    |	Belgaum		|	Karnataka	|       345:23:00
 		4    |	Jaipur		|	Rajasthan	|        56:23:00
-		5    |	Jodhpur		|	Rajasthan	|		 12:00:00
-		6    |	Jaisalmer	|	Rajasthan	|	 	 32:00:00
-		-----------------------------------------------------------
+		5    |	Jodhpur		|	Rajasthan	|	 12:00:00
+		6    |	Jaisalmer	|	Rajasthan	|	 32:00:00
+		----------------------------------------------------------------------
 		
 		
 		Find the Total Hours & Minutes of Electrical Outage for the each state
